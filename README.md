@@ -10,4 +10,4 @@ The output uses the standard 10pin connector, and can interface with the 'Bus Bo
 ![Screenshot 2023-11-01 095539](https://github.com/parkernye/modular_power_supply/assets/38089344/33b6e6db-608b-4caf-b666-09ed9fa960a2)
 
 Future modifications:
-
+-Update silkscreen for better legibility
