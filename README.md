@@ -1,4 +1,4 @@
-# modular_power_supply
+# modular_synth_power_supply
 Modular Synth Power Supply
 
 This PCB was designed to be the main power supply for a modular synth.
